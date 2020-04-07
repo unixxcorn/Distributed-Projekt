@@ -1,0 +1,1 @@
+docker build -t test-load-balanced-web ./webserver
